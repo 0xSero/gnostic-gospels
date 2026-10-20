@@ -147,11 +147,11 @@
   "filename": "11-Gospel-of-the-Egyptians.pdf",
   "title": "The Gospel of the Egyptians",
   "translator": "Alexander Bohlig and Frederik Wisse",
-  "source_url": "https://gnosis.org/naghamm/egyptians.html",
+  "source_url": "https://gnosis.org/naghamm/goseqypt.html",
   "pages": 28,
-  "bytes": 89462,
+  "bytes": 89467,
   "words": 4389,
-  "sha256": "c2b0fe0519cd2a0b264f506a52954b6058b8e4acaa02fe40f34bb1a519798b1e",
+  "sha256": "bdbe900da8da82e0876e544eb8ed34bad8dcee97b3e21dead54610dabd74d16e",
   "status": "ok",
   "note": "The NAG HAMMADI Gospel of the Egyptians (The Holy Book of the Great Invisible Spirit), NHC III,2 and IV,2 - NOT the Greek infancy gospel. See REPORT.md: the brief cited \"VI,3\", which is a different tractate (Authoritative Teaching)."
  }
